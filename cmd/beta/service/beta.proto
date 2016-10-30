@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+package beta;
+
+option go_package = "service";
+
+service BetaService {
+  rpc Get(GetRequest) returns (GetResponse);
+  rpc Set(SetRequest) returns (SetResponse);
+}
+
+message GetRequest{
+  string data = 1;
+}
+
+message GetResponse {
+  string data = 1;
+}
+
+message SetRequest {
+  string data = 1;
+}
+
+message SetResponse {
+  string data = 1;
+}

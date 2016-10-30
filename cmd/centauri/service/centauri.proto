@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package centauri;
+
+option go_package = "service";
+
+service CentauriService {
+  rpc Get(GetRequest) returns (GetResponse);
+}
+
+message GetRequest{
+  string data = 1;
+}
+
+message GetResponse {
+  string data = 1;
+}
