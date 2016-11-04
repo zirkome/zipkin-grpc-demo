@@ -51,13 +51,6 @@
 			"revisionTime": "2016-10-27T06:27:45Z"
 		},
 		{
-			"checksumSHA1": "SVXOQdpDBh0ihdZ5aIflgdA+Rpw=",
-			"origin": "github.com/kokaz/zipkin-demo/vendor/github.com/golang/protobuf/proto",
-			"path": "github.com/golang/protobuf/proto",
-			"revision": "98fa357170587e470c5f27d3c3ea0947b71eb455",
-			"revisionTime": "2016-10-12T20:53:35Z"
-		},
-		{
 			"checksumSHA1": "W+E/2xXcE1GmJ0Qb784ald0Fn6I=",
 			"path": "github.com/golang/snappy",
 			"revision": "d9eb7a3d35ec988b8585d4a0068e462c27d28380",
@@ -136,55 +129,6 @@
 			"revisionTime": "2016-09-21T19:52:07Z"
 		},
 		{
-			"checksumSHA1": "4hQNaJUg67lF/QcO0NKzUeqlaew=",
-			"origin": "github.com/kokaz/zipkin-demo/vendor/golang.org/x/net/context",
-			"path": "golang.org/x/net/context",
-			"revision": "3fe3024eef808ba2798cc1855690f49e2b860573",
-			"revisionTime": "2016-10-29T05:13:58Z"
-		},
-		{
-			"checksumSHA1": "LCLAy6j3O1f9E//NCcaVEhiH2cc=",
-			"origin": "github.com/kokaz/zipkin-demo/vendor/golang.org/x/net/http2",
-			"path": "golang.org/x/net/http2",
-			"revision": "3fe3024eef808ba2798cc1855690f49e2b860573",
-			"revisionTime": "2016-10-29T05:13:58Z"
-		},
-		{
-			"checksumSHA1": "HzuGD7AwgC0p1az1WAQnEFnEk98=",
-			"origin": "github.com/kokaz/zipkin-demo/vendor/golang.org/x/net/http2/hpack",
-			"path": "golang.org/x/net/http2/hpack",
-			"revision": "3fe3024eef808ba2798cc1855690f49e2b860573",
-			"revisionTime": "2016-10-29T05:13:58Z"
-		},
-		{
-			"checksumSHA1": "GIGmSrYACByf5JDIP9ByBZksY80=",
-			"origin": "github.com/kokaz/zipkin-demo/vendor/golang.org/x/net/idna",
-			"path": "golang.org/x/net/idna",
-			"revision": "3fe3024eef808ba2798cc1855690f49e2b860573",
-			"revisionTime": "2016-10-29T05:13:58Z"
-		},
-		{
-			"checksumSHA1": "/k7k6eJDkxXx6K9Zpo/OwNm58XM=",
-			"origin": "github.com/kokaz/zipkin-demo/vendor/golang.org/x/net/internal/timeseries",
-			"path": "golang.org/x/net/internal/timeseries",
-			"revision": "3fe3024eef808ba2798cc1855690f49e2b860573",
-			"revisionTime": "2016-10-29T05:13:58Z"
-		},
-		{
-			"checksumSHA1": "3xyuaSNmClqG4YWC7g0isQIbUTc=",
-			"origin": "github.com/kokaz/zipkin-demo/vendor/golang.org/x/net/lex/httplex",
-			"path": "golang.org/x/net/lex/httplex",
-			"revision": "3fe3024eef808ba2798cc1855690f49e2b860573",
-			"revisionTime": "2016-10-29T05:13:58Z"
-		},
-		{
-			"checksumSHA1": "4MMbG0LI3ghvWooRn36RmDrFIB0=",
-			"origin": "github.com/kokaz/zipkin-demo/vendor/golang.org/x/net/trace",
-			"path": "golang.org/x/net/trace",
-			"revision": "3fe3024eef808ba2798cc1855690f49e2b860573",
-			"revisionTime": "2016-10-29T05:13:58Z"
-		},
-		{
 			"checksumSHA1": "aVgPDgwY3/t4J/JOw9H3FVMHqh0=",
 			"path": "golang.org/x/sys/unix",
 			"revision": "c200b10b5d5e122be351b67af224adc6128af5bf",
@@ -245,5 +189,5 @@
 			"revisionTime": "2016-10-26T23:20:24Z"
 		}
 	],
-	"rootPath": "github.com/kokaz/zipkin-demo"
+	"rootPath": "github.com/kokaz/zipkin-grpc-demo"
 }
