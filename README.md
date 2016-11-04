@@ -5,7 +5,7 @@
 ## Requirements
 
 - Zipkin (https://github.com/openzipkin/zipkin)
-- Optionnal: Zipkin Docker (https://github.com/openzipkin/docker-zipkin)
+- Optional: Zipkin Docker (https://github.com/openzipkin/docker-zipkin)
 - govendor (https://github.com/kardianos/govendor)
 
 ## Installation
