@@ -51,6 +51,12 @@
 			"revisionTime": "2016-10-27T06:27:45Z"
 		},
 		{
+			"checksumSHA1": "oJGkod8y/3GTbKfazzQM+nQOPR0=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "2bc9827a78f95c6665b5fe0abd1fd66b496ae2d8",
+			"revisionTime": "2016-11-03T22:44:32Z"
+		},
+		{
 			"checksumSHA1": "W+E/2xXcE1GmJ0Qb784ald0Fn6I=",
 			"path": "github.com/golang/snappy",
 			"revision": "d9eb7a3d35ec988b8585d4a0068e462c27d28380",
@@ -127,6 +133,48 @@
 			"path": "github.com/rcrowley/go-metrics",
 			"revision": "ab2277b1c5d15c3cba104e9cbddbdfc622df5ad8",
 			"revisionTime": "2016-09-21T19:52:07Z"
+		},
+		{
+			"checksumSHA1": "4hQNaJUg67lF/QcO0NKzUeqlaew=",
+			"path": "golang.org/x/net/context",
+			"revision": "569280fa63be4e201b975e5411e30a92178f0118",
+			"revisionTime": "2016-11-03T00:14:07Z"
+		},
+		{
+			"checksumSHA1": "SJxkaMTvvqQXM5j+W9yqfaFyLRk=",
+			"path": "golang.org/x/net/http2",
+			"revision": "569280fa63be4e201b975e5411e30a92178f0118",
+			"revisionTime": "2016-11-03T00:14:07Z"
+		},
+		{
+			"checksumSHA1": "HzuGD7AwgC0p1az1WAQnEFnEk98=",
+			"path": "golang.org/x/net/http2/hpack",
+			"revision": "569280fa63be4e201b975e5411e30a92178f0118",
+			"revisionTime": "2016-11-03T00:14:07Z"
+		},
+		{
+			"checksumSHA1": "GIGmSrYACByf5JDIP9ByBZksY80=",
+			"path": "golang.org/x/net/idna",
+			"revision": "569280fa63be4e201b975e5411e30a92178f0118",
+			"revisionTime": "2016-11-03T00:14:07Z"
+		},
+		{
+			"checksumSHA1": "/k7k6eJDkxXx6K9Zpo/OwNm58XM=",
+			"path": "golang.org/x/net/internal/timeseries",
+			"revision": "569280fa63be4e201b975e5411e30a92178f0118",
+			"revisionTime": "2016-11-03T00:14:07Z"
+		},
+		{
+			"checksumSHA1": "3xyuaSNmClqG4YWC7g0isQIbUTc=",
+			"path": "golang.org/x/net/lex/httplex",
+			"revision": "569280fa63be4e201b975e5411e30a92178f0118",
+			"revisionTime": "2016-11-03T00:14:07Z"
+		},
+		{
+			"checksumSHA1": "4MMbG0LI3ghvWooRn36RmDrFIB0=",
+			"path": "golang.org/x/net/trace",
+			"revision": "569280fa63be4e201b975e5411e30a92178f0118",
+			"revisionTime": "2016-11-03T00:14:07Z"
 		},
 		{
 			"checksumSHA1": "aVgPDgwY3/t4J/JOw9H3FVMHqh0=",
